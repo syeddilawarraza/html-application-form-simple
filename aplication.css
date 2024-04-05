@@ -1,0 +1,24 @@
+
+#dil{
+	border:none;
+	outline:none;
+	background:transparent;
+	resize: none;
+	background-color:transparent;
+	border-bottom:1px gray solid;
+}
+h2{
+	border:2px gray solid;
+	width:400px;
+	margin-left:200px;
+	list-style:none;
+	margin: 0 auto;
+}
+th{
+	text-align:center;
+}
+td a{
+	list-style-type:none;
+	text-decoration:none;
+	
+}
